@@ -1,0 +1,52 @@
+body{
+    background-color: lightslategray;
+}
+
+h1{
+    color: rgb(255, 153, 0);
+    margin: 8px 600px;
+    border: solid 6px;
+    border-radius: 30px;
+    padding: 5px 10px 5px 50px;
+}
+
+.images{
+    display: flex;
+    margin: 20px;
+}
+
+#img1{
+    width: 400px;
+    margin: 100px 10px 50px 10px;
+    border: inset 10px;
+    border-color: rgb(255, 153, 0);
+}
+
+#img2{
+    width: 400px;
+    margin: 100px 100px 50px 100px;
+    border: inset 10px;
+    border-color: rgb(255, 153, 0);
+}
+
+#img3{
+    width: 400px;
+    margin: 100px 20px 50px 20px;
+    border: inset 10px;
+    border-color: rgb(255, 153, 0);
+}
+
+a{
+    font-size: 30px;
+    font-variant: small-caps;
+    color: rgb(255, 153, 0);
+    border: solid 6px;
+    border-radius: 20px;
+    padding: 2px 7px 2px 7px ;
+    background-color: rgb(105, 112, 144);
+
+}
+
+div{
+    display: flex;
+}
